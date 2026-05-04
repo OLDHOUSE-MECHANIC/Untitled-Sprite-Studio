@@ -1,4 +1,4 @@
-# 🎮 SpriteStudio
+# USS - UntitledSpriteStudio
 
 **A one-place solution for turning AI-generated sprite videos into game-ready assets — entirely in your browser.**
 
@@ -7,6 +7,8 @@ No uploads. No servers. No subscriptions.
 ---
 
 ## Demo
+
+## https://untitled-sprite-studio-production.up.railway.app/
 
 > 📸 *Screenshots and demo GIF coming soon*
 
